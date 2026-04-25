@@ -1,0 +1,7 @@
+1. Tener Internet
+2. Acceder a un dispositivo con acceso a internet
+3. Ver la noticia
+4. Dudar de la veracidad de la noticia
+5. Investigar en medios confiables si se han pronunciado sobre el tema
+6. Si la noticia es verdadera, compartir la información
+7. Al encontrar cualquier tipo de información falsa, reportarla ante la entidad o red social competente
