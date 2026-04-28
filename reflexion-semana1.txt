@@ -1,0 +1,8 @@
+Al usar el internet debemos tener muchas cosas en cuenta, pero principalmente debemos ser consientes de que no todas las personas saben usar el internet de manera correcta.
+De quehay personas que "Las atropella la tecnología" y como hay personas que no.
+Todos somos responsables de lo que se publique en la internet, por que en ella habitamos todos y todos somos participes y responsables de lo que se publica en ella.
+El trabajo técnico por otra parte, en internet se volvió algo mas diverso y de fácil acceso, por el simple hecho de que ya prácticamente todos tenemos acceso a internet. 
+Por que no debemos estar todos juntos en un solo lugar para hacer trabajo colaborativo y aquí es donde entran este tipo de herramientas como git. 
+En la cual se puede subir un proyecto con el que se cumple con su parte, mientras en alguna otra parte del mundo, hay otra persona accediendo a esto de manera remota mediante el internet.
+Ademas de que no solo permite hacer eso, el hecho de hacer trabajo para que personas que saben del tema puedan colaborar y accedan a esta información, creen, modifiquen o amplíen proyectos solamente entendiendo el código con su respectiva documentación.
+Hace que el uso del internet no solo sea responsabilidad de unos cuantos, sino de todos los que la usamos diariamente para que no tengamos noticias ni información Falsa en el dia a dia.
